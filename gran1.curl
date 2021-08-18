@@ -1,0 +1,12 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+        "gran",
+        "blur pioneer frown science banana impose avoid law act strategy have bronze//1//grandpa",
+        "0xf8ca55b0a401e6f2663e800d4ae8673da69a4db1765e561bb9b422808a6a4528"
+    ]
+}
+
+

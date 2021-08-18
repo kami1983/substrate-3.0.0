@@ -1,0 +1,12 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+        "imon",
+        "blur pioneer frown science banana impose avoid law act strategy have bronze//1//im_online",
+        "0xf869c49195a98b83db3ea3822a12ab70d43e83cc765cb5f68e82debff0d6a410"
+    ]
+}
+
+

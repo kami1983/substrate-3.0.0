@@ -23,5 +23,5 @@ rls*.log
 **/hfuzz_workspace/
 .cargo/
 .cargo-remote.toml
-*.curl
-*.private.md
+**/*.curl
+**/*.private.md
